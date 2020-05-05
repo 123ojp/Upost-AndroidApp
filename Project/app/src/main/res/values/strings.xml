@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Upost</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Not Logged In</string>
+    <string name="nav_header_subtitle">-</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Login</string>
+    <string name="menu_send">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="board">Board</string>
+    <string name="hot_post">Hot Post</string>
+    <string name="new_post">New Post</string>
+    <string name="menu_user">User</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">E-mail</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="token">Token</string>
+    <string name="sex">Sex</string>
+    <string name="hasconfirmcode">I already has confirm code</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="like">Like!</string>
+    <string name="write_comment">Write Comment</string>
+    <string name="post_commit">Post!</string>
+    <string name="write_something">Write Something...</string>
+    <string name="crete_post_title">Write Post</string>
+    <string name="write_title">Write Title... (50 max)</string>
+
+
+</resources>

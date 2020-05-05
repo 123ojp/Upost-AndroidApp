@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeBoardList">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/testtext"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dip"
+        android:text="test"
+        android:textSize="16dip"
+        android:textStyle="bold"></TextView>
+    <ListView
+        android:id="@+id/board_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>

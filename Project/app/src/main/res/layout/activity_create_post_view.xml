@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#f2f2f2"
+    android:layout_height="match_parent"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="@string/crete_post_title"
+        android:textSize="30sp" />
+    <Spinner
+        android:id="@+id/create_post_spinner"
+        android:layout_height="50dp"
+        android:layout_width="match_parent" />
+    <EditText
+        android:id="@+id/create_post_title"
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:gravity="top|left"
+        android:ems="10"
+        android:singleLine="false"
+        android:textSize="20dp"
+        android:inputType="text"
+        android:maxLength="50"
+        android:scrollHorizontally="false"
+        android:hint="@string/write_title"
+        />
+
+    <EditText
+        android:id="@+id/create_post_text"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="top|left"
+        android:ems="10"
+        android:layout_weight="1"
+        android:singleLine="false"
+        android:textSize="20dp"
+        android:inputType="textMultiLine"
+        android:scrollHorizontally="false"
+        android:hint="@string/write_something"
+        />
+
+    <Button
+        android:id="@+id/create_post_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/post_commit" />
+</LinearLayout>
