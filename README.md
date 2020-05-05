@@ -1,6 +1,6 @@
 # Upost - Android Apps
 #### A reddit for android class
-![](https://i.imgur.com/n9TDmEM.png)
+<img src="https://i.imgur.com/n9TDmEM.png" width="200"/>
 
 ## Download
 - [Google Drive](https://bit.ly/2Y3maa7)
