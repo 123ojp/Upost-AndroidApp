@@ -6,4 +6,6 @@
 - [Google Drive](https://bit.ly/2Y3maa7)
 
 ## Screen Shots
-![](https://i.imgur.com/Vbp8jnK.png) ![](https://i.imgur.com/VJK9NRL.png) ![](https://i.imgur.com/lEVYfNU.png)
+<p float="left">
+    <img src="https://i.imgur.com/Vbp8jnK.png" width="33%"/><img src="https://i.imgur.com/VJK9NRL.png" width="33%"/><img src="https://i.imgur.com/lEVYfNU.png" width="33%"/>
+</p>
