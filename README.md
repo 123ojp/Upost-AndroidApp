@@ -4,6 +4,7 @@
 
 ## Download
 - [Google Drive](https://bit.ly/2Y3maa7)
+- [Github Release](https://github.com/123ojp/Upost-AndroidApp/releases/download/v1.0/upost.apk)
 
 ## Screen Shots
 <p float="left">
